@@ -1,0 +1,4 @@
+interface:
+  display_name: "To PRD"
+  short_description: "Turn conversation context into a PRD"
+  default_prompt: "Use $to-prd to synthesize this context into a PRD and publish it to the configured issue tracker."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zoom Out"
+  short_description: "Explain how a code area fits the larger system"
+  default_prompt: "Use $zoom-out to map this code area, its responsibilities, dependencies, and architectural role."

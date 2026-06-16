@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagnose"
+  short_description: "Debug failures with a disciplined feedback loop"
+  default_prompt: "Use $diagnose to reproduce, minimise, instrument, fix, and regression-test this failure."

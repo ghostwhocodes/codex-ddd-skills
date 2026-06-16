@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stop Slop"
+  short_description: "Remove predictable AI writing patterns"
+  default_prompt: "Use $stop-slop to edit this prose so it is direct, accurate, and free of predictable AI phrasing."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Project Context"
+  short_description: "Set up AGENTS.md and docs/agents configuration"
+  default_prompt: "Use $setup-project-context to configure this repo's issue tracker, triage labels, and domain-doc layout."

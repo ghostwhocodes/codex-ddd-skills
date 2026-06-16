@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Write a concise handoff for another agent"
+  default_prompt: "Use $handoff to summarize the current work, decisions, files touched, validation, and remaining next steps."

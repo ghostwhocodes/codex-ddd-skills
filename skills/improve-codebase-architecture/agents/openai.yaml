@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Codebase Architecture"
+  short_description: "Find module-deepening and architecture improvements"
+  default_prompt: "Use $improve-codebase-architecture to review this codebase for deeper modules, clearer interfaces, and testability improvements."

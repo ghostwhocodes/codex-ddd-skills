@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex LHP"
+  short_description: "Orchestrate spec-driven CodexLHT programs"
+  default_prompt: "Use $codex-lhp to create or maintain a program plan from repository specs."

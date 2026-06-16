@@ -1,0 +1,36 @@
+{
+  "name": "codex-ddd-skills",
+  "version": "0.1.0",
+  "description": "Codex skills for maintaining software repositories with shared domain language, issue handoff, testing discipline, diagnosis, and architecture improvement.",
+  "author": {
+    "name": "Nos Doughty"
+  },
+  "homepage": "https://github.com/llaith/codex-ddd-skills",
+  "repository": "https://github.com/llaith/codex-ddd-skills",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skills",
+    "domain-driven-design",
+    "architecture",
+    "issue-triage",
+    "testing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex DDD Skills",
+    "shortDescription": "Maintain repositories with domain language, issue handoff, testing, and architecture skills.",
+    "longDescription": "Codex DDD Skills provides a compact set of repository-maintenance skills for setting up agent context, shaping product intent into issues, triaging work, building with tests, diagnosing failures, and improving architecture through shared domain language and durable decisions.",
+    "developerName": "Nos Doughty",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Set up agent context for this repository.",
+      "Turn this plan into agent-ready issues.",
+      "Review this codebase for architecture improvements."
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust"
+  short_description: "Apply Rust engineering guidance"
+  default_prompt: "Use $rust when working on Rust APIs, Cargo workspaces, async code, tests, or performance-sensitive paths."

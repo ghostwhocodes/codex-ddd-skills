@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java"
+  short_description: "Apply Java and JVM engineering guidance"
+  default_prompt: "Use $java when working on Java, JVM builds, tests, concurrency, framework code, or performance-sensitive paths."

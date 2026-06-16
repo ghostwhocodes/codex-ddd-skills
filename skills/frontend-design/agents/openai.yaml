@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Design"
+  short_description: "Build or refine production-quality web UI"
+  default_prompt: "Use $frontend-design to implement this UI with responsive layout, accessibility, and browser verification."

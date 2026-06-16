@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype"
+  short_description: "Build a disposable project-local prototype"
+  default_prompt: "Use $prototype to create a project-local spike that answers this design, logic, API, or UI question."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex LHT"
+  short_description: "Run contract-gated long-horizon Codex tasks"
+  default_prompt: "Use $codex-lht to create or resume a contract-gated long-horizon task."

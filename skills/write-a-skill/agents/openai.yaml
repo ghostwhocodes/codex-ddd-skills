@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write A Skill"
+  short_description: "Create or update Codex skills"
+  default_prompt: "Use $write-a-skill to create or refine a Codex skill with clear triggers and progressive disclosure."

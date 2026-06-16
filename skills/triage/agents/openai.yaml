@@ -1,0 +1,4 @@
+interface:
+  display_name: "Triage"
+  short_description: "Triage issues into agent-ready work"
+  default_prompt: "Use $triage to evaluate this issue, apply the configured labels, and prepare any needed agent brief."
