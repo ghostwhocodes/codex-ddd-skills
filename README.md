@@ -1,5 +1,13 @@
 # Codex DDD Skills
 
+<p align="center">
+  <img src="./.github/assets/banner.webp" alt="Codex DDD Skills banner">
+</p>
+
+<p align="center">
+  <a href="https://ghost-who-codes.blog/open-source/codex-ddd-skills/">Project page on Ghost Who Codes</a>
+</p>
+
 Codex skills for maintaining software repositories with shared domain language,
 durable architectural decisions, issue-tracker handoff, tight feedback loops,
 and regular architecture improvement.
